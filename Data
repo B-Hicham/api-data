@@ -1,0 +1,18 @@
+const data = {
+    products: [
+        {
+            id:1,
+            img:"",
+            title:"hello world",
+            desc:"",
+            price:20
+        },
+        {
+            id:1,
+            img:"",
+            title:"hello world",
+            desc:"",
+            price:20
+        }
+    ]
+}
